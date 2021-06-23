@@ -5,7 +5,7 @@
 <br> I'm Nicolas Golob, Junior Web Developper and passionate by what I consider to be digital art. 👾</p>
 
 <h2>About me </h2>
-<p>I am 30 years old, I live in thionville between a french city, metz and the luxembourg border. <br/>
+<p>I am 30 years old, I live in thionville between a french city Metz and the Luxembourg border. <br/>
 I started in 2019 a reconversion in the field of programming and web development without suspecting it would become a growing passion.<br/>
 I often experiment in order to develop the creative side I have, not to fall into a certain routine, to try other paradigms.<br/>
 These projects/tests always teach me something, push me to discover more, to go further and to be able to share this to learn. <br/>
