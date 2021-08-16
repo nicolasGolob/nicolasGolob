@@ -2,7 +2,7 @@
 <h2>Presentation</h2>
 
 <p align="left">Hi There, 👋 
-<br> I'm Nicolas Golob, Junior Web Developer and passionate. 👾</p>
+<br> I'm Nicolas Golob, Web Developer and passionate. 👾</p>
 
 <h2>About me </h2>
 <p>I am 30 years old and I live near the french city of Metz. <br/>
