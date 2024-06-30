@@ -5,7 +5,7 @@
 <br> I'm Nicolas Golob, Web Developer and passionate. 👾</p>
 
 <h2>About me </h2>
-<p>I am 32 years old and I live near the french city of Metz. <br/>
+<p>I am 33 years old and I live near the french city of Metz. <br/>
 I often experiment in order to develop the creative side I have, not to fall into a certain routine, to try other paradigms.<br/>
 These projects/tests always teach me something, push me to discover more, to go further and to be able to share this. <br/>
 To this day I continue to practice, learn new technologies, paradigms and most of all enjoy coding.</p>
