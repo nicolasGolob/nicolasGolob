@@ -46,4 +46,3 @@ To this day I continue to practice, learn new technologies, paradigms and most o
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.behance.net/nicolasgolob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/nicolasgolob" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolas-golob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-golob/" height="30" width="40" /></a></p>
